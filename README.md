@@ -16,7 +16,7 @@ The backend uses the web pages to interact with users, generating API messages t
 
 ## Project Flow
 
-![Project Flow](./seqence_diagram_image.png)  
+![Project Flow](./sequence_diagram_image.png)  
 
 ---
 
