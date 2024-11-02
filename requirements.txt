@@ -1,0 +1,6 @@
+flask
+kafka.admin
+kafka
+pymongo
+json
+threading
